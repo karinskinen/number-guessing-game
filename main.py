@@ -48,6 +48,7 @@ def game():
       game()
   else:
       print("Thank you for a nice game. See you another day!")
+      os.system('clear')
 
 game()
 
